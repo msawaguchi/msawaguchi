@@ -1,4 +1,4 @@
-### Hi there 👋
+### ･ﾟ✧ Hi there 👋  :･ﾟ✧*:･ﾟ✧
 
 <!--
 **msawaguchi/msawaguchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
