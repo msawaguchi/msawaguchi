@@ -43,5 +43,5 @@
 
 <p align="center">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=msawaguchi&theme=onedark">
-<img src="https://github-readme-stats.vercel.app/api?username=msawaguchi&show_icons=true&line_height=40&card_width=100%&theme=onedark#gh-dark-mode-only">
+<img src="https://github-readme-stats.vercel.app/api?username=msawaguchi&line_height=40&card_width=100%&theme=onedark#gh-dark-mode-only">
 </p>
