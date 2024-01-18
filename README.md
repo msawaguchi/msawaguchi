@@ -45,3 +45,14 @@
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=msawaguchi&bg_color=30,450825,96023d&layout=compact&langs_count=8&theme=omni" height="170em">
   <img src="https://github-readme-stats.vercel.app/api?username=msawaguchi&theme=omni&bg_color=30,96023d,450825" height="170em">
 </p>
+
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/msawaguchi/count.svg"
+    alt="Profile Visitor Count"
+  />
+</p>
