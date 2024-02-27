@@ -7,6 +7,8 @@
 
 ---
 💼 I have experience working with:
+
+
 <p>          
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="Typescript" title="Typescript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="Javascript" title="Javascript"/>
@@ -17,6 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="36" alt="Spring" title="Spring"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="HTML" title="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="CSS" title="CSS"/>
+  <img width="36" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="36" alt="JQuery" title="Jquery"/>     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="36" alt="Docker" title="Docker"/>    
 </p>
@@ -24,11 +27,10 @@
 😍 and I'm very enthusiastic about:
 <p>
   <br>
-  <img width="36" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL"/>
+  <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Golang" title="Golang"/>
   <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="Svelte" title="Svelte"/>
   <img width="36" height="36" src="https://user-images.githubusercontent.com/25181517/188324036-d704ac9a-6e61-4722-b978-254b25b61bed.png" alt="WebAssembly" title="WebAssembly"/>
   <img width="36" height="36" src="https://github.com/up-for-grabs/up-for-grabs.net/assets/139565234/bf1c680b-e389-4619-ad37-04016bee7430" alt="Rust" title="Rust" style="background:white"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="36" alt="Tailwind" title="Tailwind"/>
   <img width="36" height="36" src="https://github.com/up-for-grabs/up-for-grabs.net/assets/139565234/79e7b8db-5590-4bd2-b27a-c9d376c9489b" background="white" alt="Three.js" title="Three.js"/>
 </p>
 <br>
