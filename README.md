@@ -1,13 +1,24 @@
 <!-- in your header -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
-<p align="center">
-  <img src="https://github.com/msawaguchi/msawaguchi/assets/28602785/1b4dea24-2ce6-4204-8b0b-95f0bde7638e" width="72%">
-</p>
+# Hello World! <img src="https://media.tenor.com/CKA21kCjN3QAAAAi/ali-yalniz-world-is-spinning.gif" width="30px">
+### Hi there 👋
+
+<p>
+   I'm 𝙈𝙞𝙨𝙨𝙖𝙚 𝙎𝙖𝙬𝙖𝙜𝙪𝙘𝙝𝙞, a frontend engineer with experience in backend and some UX/UI design. </br>
+   Working in the software development field since 2016... 
+   °·.¸.·°¯°·.¸.·°¯°·.¸.°·.¸.·°¯°·.¸.·°¯°·.¸.
+ </p>
+
+𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
+
+:computer: 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝙱𝚂  </br>
+
+:pushpin: 𝚂ã𝚘 𝙿𝚊𝚞𝚕𝚘 - 𝙱𝚛𝚊𝚣𝚒𝚕
+
 
 ---
 💼 I have experience working with:
-
 
 <p>          
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="Typescript" title="Typescript"/>
@@ -58,3 +69,5 @@
     alt="Profile Visitor Count"
   />
 </p>
+
+t̴͍͇̲̿̽h̶̨̨̢̧̡̧͙͎̦͇͕̤̘̖͕̯̮̠̣̫̜͉͕̭̯̦̩̟͎̭͍̮̖̙͔̦̰̖̩̜͆̑̄̒́́̌̑͌̌̀̀̒̾̿̎̽̂̓͆̋̒̇̄̐́͗͆̑̕͘͘͝͝͝ȁ̶̙̻͗͋̀̃̇͌̈͒̌̃͐͋̂͆͂͘͠ņ̶̡̢̹̮͕͉̪̜͍͈̟̥͖͓̰͉̘̳͍̮̱̦̱̫̦̼̮̍̈́͐̈͌́͛͆̀̓̄̅̇̒̾̓͐̓̑͋͆̅̾̈̾̊͐̑̆̓̅̊̒͒̆͂̔͗̍͂̽͋͘̕̚̕͜͜͜͜͝͝͝͠ͅk̵̡̨̡̛̼̲̠̺̘͚͉̞̯̯̰̗͍̩̞̹͉͎͈̝̳̣̗̺͔͈̺̾̾̓͋̍͊͂̊̓̅̈͐͒͆̑̈́̓͋̂́̏̌̽̅͗̇͛̃͊̀̅̊̄̊̽̌̔͜͜͠ş̸̡̡̧̛̞̩͎̫͔̖͇̣͓͚̦̹̳̙̗͙͕̦̫̙̠̻̖̬̟̝̲̙̻̘̻̹̥̝̖̺̳̣͕̫̩̙͒̅͗̄̑̈́̐̀̄̄̒̉͗̑͑̒͘̚̕ͅͅͅ ̶̧̧̨͈͇͓̩̠̩̝̠̞̟̹̥̝̝̭̣̞̳̞̗̖̝̯̭̌̆̀͂̅̒̄̀̾̄͐͆͛͘͘͘͜͝f̶̡̧̬͕̯̪̝͚̘͍̬͖̹͙̙͚̣͉͓̱͉̭̝̗̏̊͒̆̿̒̑̓͌̑͊̿̔̅̀̆̂͂̇̍̋̿͘̕͜͝͝ơ̸̢̛͇̭͖͇̗̘̩̬̦̟̻̘̻͓̫͉̇́͋̉̔̏́͗̇̉̚̕̚ŕ̶̘̑͐͆̍͆̋͗̾͒̉̒̓̒̆̓̿̈́͗̂͊͝ ̶̧̢̤̜̗̣̖̺̜͉̩͇͕͍̺͓̣͓͙̹̰͚͕̳̻͙̝̘̪̳̠̣̥̝̣̪͍̘͇́͋͗̒̕͜͜͜ͅṽ̷̧̡̢̧̢̛͓̮̝͚͙̻͔͍̠̙̪͖̣̪̼̠͇͉̥͔̦͍͉̻͔͍̲̼̻̲͍̞͓̩̠͐̏̏̀̔̌̆͗͋̌̿̌͋̇̅͋̎͑̔̇͐͌̐̈́͑̈́͂͊̿̌́̐́̀͂̎̉̊̕͠͠͝ͅͅī̵͕̻̉͐͌̇̌͗̏̿̋̃̌͆̈́̚͘͜͠ͅṣ̷̛̰̹̬͇͙͐͛̂̎̀̂̈̀͆̽̍͑̈́̌̋̃̇̂̀̽̑̂̆̊̈́̑̆̀͊̑͊̐̆̂̃͗̈́̚͘͝͠͝͝ĭ̶̢͇͖͕̰̟̼̣͇͈̹̩̥̮̬̟͍̤̫͓̝̝̯̩̬̲̞̲̣͔̞̣̫̹̬͗̈́̅̈̌͛̍́̈́̾̃͑́͊̀̔͑̃̆͑̊͐̐̑̿̂̀̍̔̓̀͘͘̕͘͝͝͝t̷̢̡̛̯̟̬̹̗͔͎͖̜͉̓̊́̈͊̓̃̐̃͛̾̓̈̔̓̒͊̌͆́́̑̇̊̾̎̄̿̈́͗͗̀̂̂͑̉͐̊̏͑͗͐̅͆̄̚͜͝͝͠i̶̹̯͍̒̃̈́̈́ǹ̶̨̧̜̮̰͉̐̍̅̓̅̚g̶̞̤͚̪͇͙̦̲̠̫͔͔̥̣̼̝̦̘̓͋͛͂̒̍̄̂͆͌͌̽̾̒́̀̔̃̀̈́͐͐̒̾̿́́̔̄͘̕͜͝ͅ
