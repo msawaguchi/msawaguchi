@@ -16,6 +16,9 @@
 
 :pushpin: 𝚂ã𝚘 𝙿𝚊𝚞𝚕𝚘 - 𝙱𝚛𝚊𝚣𝚒𝚕
 
+𝚏𝚒𝚗𝚍 𝚖𝚎 @͎:
+
+<a href="https://sawastudio.me">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) </a> <a href="https://www.linkedin.com/in/missae-sawaguchi/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a> <a href="https://www.hackerrank.com/profile/missae_sawaguchi">![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) </a> <a href="mailto:missae.sawaguchi@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
 
 ---
 💼 I have experience working with:
