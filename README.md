@@ -5,16 +5,25 @@
 ### Hi there 👋
 
 <p>
-   I'm 𝙈𝙞𝙨𝙨𝙖𝙚 𝙎𝙖𝙬𝙖𝙜𝙪𝙘𝙝𝙞, a frontend engineer with experience in backend and some UX/UI design. </br>
-   Working in the software development field since 2016... 
+   I'm 𝑴𝒂́𝒊𝒓𝒂 𝑴𝒊𝒔𝒔𝒂𝒆 𝑺𝒂𝒘𝒂𝒈𝒖𝒄𝒉𝒊, a frontend engineer with experience in backend and some UX/UI design. </br>
+   Working in the software development field since 2016...  
    °·.¸.·°¯°·.¸.·°¯°·.¸.°·.¸.·°¯°·.¸.·°¯°·.¸.
+ </p>
+ <p>
+    ────୨ৎ────
  </p>
 
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
-:computer: 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝙱𝚂  </br>
+:computer: 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝙱𝚂 🎓  </br>
 
-:pushpin: 𝚂ã𝚘 𝙿𝚊𝚞𝚕𝚘 - 𝙱𝚛𝚊𝚣𝚒𝚕
+ <p>
+    ────୨ৎ────
+ </p>
+
+
+:hatching_chick: 𝗕𝗼𝗿𝗻 𝗶𝗻 𝚂𝚊̃𝚘 𝙿𝚊𝚞𝚕𝚘, 𝙱𝚛𝚊𝚣𝚒𝚕 🇧🇷  </br>
+:pushpin: 𝐋𝐢𝐯𝐢𝐧𝐠 𝐢𝐧 𝙿𝚘𝚛𝚝𝚘, 𝙿𝚘𝚛𝚝𝚞𝚐𝚊𝚕 🇵🇹 (𝚜𝚒𝚗𝚌𝚎 𝟶𝟿/𝟸𝟶𝟸𝟺)  </br> </br>
 
 𝚏𝚒𝚗𝚍 𝚖𝚎 @͎:
 
